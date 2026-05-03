@@ -1,0 +1,18 @@
+body{
+ background: #6dc1a591;   /*fondo*/
+ width: 100%;    /*response queda en la mitad asi cierre la pestaña*/
+ height: 100%; /*response*/
+}
+.contenedor{   /*llama contenedor*/
+    width: 40%;  /*ancho*/
+    height: 80%;  /*alto*/
+    margin-top: 20%;/*margen arriba*/
+    background: #c5a9cd;
+    margin-left: 30%; /*margen a la izquierda  para centrar*/ 
+    text-align: center;/*centra*/
+    border: #0a030b;/*bordes*/
+    border-radius: 30px;/*bordes*/
+}
+h1{/*titulo color*/
+    color: rgb(71, 72, 120);
+}
